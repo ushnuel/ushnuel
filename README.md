@@ -1,4 +1,4 @@
-### Senior Software Engineer | Node.js | Typescript | Next.js | React | JavaScript | Nest.js | AWS | Express.js | PostgreSQL | Primsa | SequelizeORM
+### Senior Software Engineer | Node.js | Typescript | Next.js | React | JavaScript | Nest.js | AWS | Express.js | PostgreSQL
 
 ### I am Emmanuel Eze 👋, a Full-Stack Developer based in Lagos, Nigeria, with more than 5 years of professional experience.
 
